@@ -1,0 +1,55 @@
+{
+  "pedidos": [
+    {
+      "id": 1,
+      "vendedor": {
+        "Id": 0,
+        "descripcion": "string"
+      },
+      "articulos": [
+        {
+          "codigo": "string",
+          "descripcion": "string",
+          "precio": 0.0,
+          "deposito": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "vendedor": {
+        "Id": 3,
+        "descripcion": "Martin Gomez"
+      },
+      "articulos": [
+        {
+          "codigo": "K1020",
+          "descripcion": "Colchon Telgo",
+          "precio": 10256.12,
+          "deposito": 1
+        },
+        {
+          "codigo": "K1024",
+          "descripcion": "Sommier Telgo",
+          "precio": 14256.12,
+          "deposito": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "vendedor": {
+        "Id": 2,
+        "descripcion": "Lucas Lauriente"
+      },
+      "articulos": [
+        {
+          "codigo": "K1024",
+          "descripcion": "Sommier Telgo",
+          "precio": 14256.12,
+          "deposito": 1
+        }
+      ]
+    }
+  ]
+}

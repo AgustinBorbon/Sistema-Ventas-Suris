@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|c:\\users\\agustin\\source\\repos\\challengesistemaventas\\challengesistemaventas\\challengesistemaventas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C710182C-2B46-42A7-91F7-F3B5D96EB2EF}|ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj|solutionrelative:challengesistemaventas\\challengesistemaventas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "ChallengeSistemaVentas\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:30:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "ChallengeSistemaVentas\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:36:13.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\Program.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Program.cs",
+              "RelativeToolTip": "ChallengeSistemaVentas\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:14:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Models\\Articulo.cs",
+              "RelativeToolTip": "ChallengeSistemaVentas\\Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:14:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\appsettings.json",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\appsettings.json",
+              "RelativeToolTip": "ChallengeSistemaVentas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T13:49:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "ChallengeSistemaVentas\\Controllers\\VendedorController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:46:43.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Models\\Pedido.cs",
+              "RelativeToolTip": "ChallengeSistemaVentas\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:15:07.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\Models\\Vendedor.cs",
+              "RelativeToolTip": "ChallengeSistemaVentas\\Models\\Vendedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:15:01.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChallengeSistemaVentas",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj",
+              "RelativeDocumentMoniker": "ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ChallengeSistemaVentas\\ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj",
+              "RelativeToolTip": "ChallengeSistemaVentas\\ChallengeSistemaVentas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T13:43:19.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
